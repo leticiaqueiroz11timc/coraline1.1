@@ -54,3 +54,98 @@ h1{
     font-size: 20px;
   color: #4a7cff;
 }
+
+.botao{
+
+    display: inline-block;
+
+    background-color: #2952cc;
+
+    color: white;
+
+    text-decoration: none;
+
+    padding: 12px 25px;
+
+    border-radius: 8px;
+
+    margin-top: 20px;
+
+}
+
+.botao:hover{
+
+    background-color: #1d3d99;
+
+}
+
+.sinopse{
+
+    width: 80%;
+
+    margin: auto;
+
+    text-align: center;
+
+    padding: 70px 0;
+
+}
+
+.sinopse img{
+
+    width: 300px;
+
+    border-radius: 10px;
+
+    margin: 20px;
+
+}
+
+.sinopse p{
+
+    max-width: 700px;
+
+    margin: auto;
+
+    line-height: 1.7;
+
+}
+
+.personagens{
+
+    background-color: #1b1b1b;
+
+    padding: 70px 20px;
+
+    text-align: center;
+
+}
+
+.personagem{
+
+    background-color: #292929;
+
+    width: 300px;
+
+    margin: 30px auto;
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+}
+
+.personagem img{
+
+    width: 100%;
+
+    border-radius: 10px;
+
+}
+
+.personagem p{
+
+    line-height: 1.6;
+
+}
+
