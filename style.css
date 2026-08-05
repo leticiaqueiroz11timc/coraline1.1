@@ -149,3 +149,25 @@ h1{
 
 }
 
+.elenco{
+
+    padding: 70px;
+
+    text-align: center;
+
+}
+
+.elenco ul{
+
+    list-style: none;
+
+}
+
+.elenco li{
+
+    margin: 15px;
+
+    font-size: 18px;
+}
+
+
